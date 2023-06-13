@@ -8,7 +8,7 @@ cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 
 
-# Privilege Escalation
+## Privilege Escalation
 This work is open sourced under the Apache License, Version 2.0, using the
 same license as the original [GitBook](https://github.com/GitbookIO/gitbook) repository.
 

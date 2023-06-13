@@ -4,6 +4,7 @@ author: RFS
 date: 2023-06-02
 category: Layer 2
 layout: post
+permalink: /credentials-dumping
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 

@@ -4,6 +4,7 @@ author: RFS
 date: 2023-06-03
 category: Windows
 layout: post
+permalink: /lateral-movement
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 
