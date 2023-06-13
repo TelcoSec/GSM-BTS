@@ -4,7 +4,7 @@ author: Tao He
 date: 2022-02-05
 category: Jekyll
 layout: post
-permalink: /free-courses
+permalink: /contact
 cover: https://cdn.ad-attacks.com/ActiveDirectoryZerologonAttack.png
 ---
 
