@@ -21,6 +21,8 @@ cover: https://cdn.ad-attacks.com/ActiveDirectoryZerologonAttack.png
 
 ### C&C
 Choose your Doom!
+
+<ha-alert alert-type="success">This is a success alert — check it out!</ha-alert>
 #### Cobalt Strike
 
 #### Covenant
