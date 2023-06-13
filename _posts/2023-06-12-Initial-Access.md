@@ -1,5 +1,5 @@
 ---
-title: Initial Access
+title: 1 - Initial Access
 author: RFS
 date: 2023-06-12
 category: Layer-1
