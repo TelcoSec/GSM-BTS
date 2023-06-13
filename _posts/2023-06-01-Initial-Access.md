@@ -4,6 +4,7 @@ author: RFS
 date: 2023-06-01
 category: Initial
 layout: post
+permalink: /initial-access
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 
