@@ -1,5 +1,5 @@
 ---
-title: Layer 1 - Physical Attacks
+title: Initial Access
 author: RFS
 date: 2023-06-12
 category: Layer-1
@@ -7,15 +7,19 @@ layout: post
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 
-## Technologies
+## Information Gathering
 
-TAP everything
-### Fiber
+### OSINT
 
-### Ethernet
+### LinkedIn
 
-### 802.11
-### E1 / T1
+## Propagate
+
+### Emails
+
+### SMS
+
+### Advertisement
 
 
 ## Attack Types

@@ -1,7 +1,7 @@
 ---
-title: Layer 2 - Data Link
+title: Credentials Dumping
 author: RFS
-date: 2019-04-28
+date: 2023-06-13
 category: Layer 2
 layout: post
 ---
