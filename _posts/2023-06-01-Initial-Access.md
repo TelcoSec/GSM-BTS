@@ -22,7 +22,7 @@ cover: https://cdn.ad-attacks.com/ActiveDirectoryZerologonAttack.png
 ### C&C
 Choose your Doom!
 
-<ha-alert alert-type="success">This is a success alert — check it out!</ha-alert>
+> :bulb: **Tip:** Remember to appreciate the little things in life.
 #### Cobalt Strike
 
 #### Covenant
