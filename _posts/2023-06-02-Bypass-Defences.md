@@ -7,7 +7,9 @@ layout: post
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 
+## AppLocker
 
+## DPAPI
 
 ## Powershell
 
@@ -45,3 +47,6 @@ cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 
 </div>
 
+## Windows Defender Antivirus
+
+- RFS
