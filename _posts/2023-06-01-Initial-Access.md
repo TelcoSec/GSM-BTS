@@ -23,7 +23,11 @@ cover: https://cdn.ad-attacks.com/ActiveDirectoryZerologonAttack.png
 Choose your Doom!
 
 > :bulb: **Tip:** Remember to appreciate the little things in life.
+
 #### Cobalt Strike
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 #### Covenant
 
