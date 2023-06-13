@@ -4,7 +4,6 @@ author: RFS
 date: 2022-02-05
 category: Data
 layout: post
-permalink: /think-before-hack
 cover: https://cdn.ad-attacks.com/ActiveDirectoryZerologonAttack.png
 ---
 

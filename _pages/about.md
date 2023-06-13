@@ -4,7 +4,6 @@ author: RFS
 date: 2022-02-04
 category: Author
 layout: post
-permalink: /about
 cover: https://cdn.ad-attacks.com/ActiveDirectoryZerologonAttack.png
 ---
 
