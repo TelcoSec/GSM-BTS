@@ -11,6 +11,14 @@ cover: https://cdn.ad-attacks.com/ActiveDirectoryZerologonAttack.png
 ## Build your Infrastructure
 
 
+<figure>
+   <a href="{{ include.url }}">
+   <img src="{{ include.file }}" style="max-width: {{ include.max-width }};"
+      alt="{{ include.alt }}"/>
+   </a>
+   <figcaption>{{ include.caption }}</figcaption>
+</figure>
+
 ### C&C
 Choose your Doom!
 #### Cobalt Strike
