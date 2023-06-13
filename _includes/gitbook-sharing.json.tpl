@@ -1,7 +1,7 @@
             "sharing": {
                 "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"],
                 "facebook": true,
-                "google": false,
+                "google": true,
                 "github": true,
                 "github_link": "https://github.com",
                 "telegram": false,
