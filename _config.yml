@@ -4,7 +4,7 @@ longtitle:        Red Team
 author:           RFS
 email:            xxx@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Hacking Active Directory for Red Teams
 
 version:          1.0
 gitbook_version:  3.2.3

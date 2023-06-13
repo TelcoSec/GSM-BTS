@@ -48,6 +48,3 @@ Choose your Doom!
 ### Advertisement
 
 
-## Attack Types
-
-[1]: https://www.gigamon.com/products/access-traffic/network-taps.html
