@@ -13,11 +13,11 @@ same license as the original [GitBook](https://github.com/GitbookIO/gitbook) rep
 
 <div class="table-wrapper" markdown="block">
 
-|Tool|Description|Git|title4|title5|title6|title7|title8|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
+|Tool|Description|Git|AV|Ports|
+|:-:|:-:|:-:|:-:|:-:|
+|1|2|3|4|5|
+|1|2|3|4|5|
+|1|2|3|4|5|
+|1|2|3|4|5|
 
 </div>
