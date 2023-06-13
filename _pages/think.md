@@ -4,7 +4,8 @@ author: RFS
 date: 2022-02-05
 category: Data
 layout: post
-cover: https://learn.ad-attacks.com/assets/Active-Directory-Attacks.webp
+permalink: /free-courses
+cover: https://cdn.ad-attacks.com/ActiveDirectoryZerologonAttack.png
 ---
 
 This is an contact page.
