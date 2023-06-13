@@ -5,7 +5,7 @@ date: 2023-06-01
 category: Initial
 layout: post
 permalink: /initial-access
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
+cover: https://learn.ad-attacks.com/assets/Active-Directory-Attacks.webp
 ---
 
 ## Build your Infrastructure
