@@ -9,5 +9,5 @@ cover: https://cdn.ad-attacks.com/ActiveDirectoryZerologonAttack.png
 
 This is an contact page.
 
-{%- include head.html -%}
+{%- include discord.html -%}
 
