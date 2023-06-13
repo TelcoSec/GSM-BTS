@@ -5,7 +5,7 @@ date: 2023-06-01
 category: Initial
 layout: post
 permalink: /initial-access
-cover: https://learn.ad-attacks.com/assets/Active-Directory-Attacks.webp
+cover: '{{site.cdn_images}}/ActiveDirectoryZerologonAttack.png'
 ---
 
 ## Build your Infrastructure

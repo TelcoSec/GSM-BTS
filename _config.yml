@@ -61,6 +61,11 @@ destination:      ./_site
 incremental:      false
 regenerate:       true
 
+# Images CDN
+
+cdn_images: 'https://cdn.ad-attacks.com'
+
+
 plugins:
   - jekyll-feed
   - jekyll-readme-index
