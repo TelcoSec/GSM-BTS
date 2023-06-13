@@ -1,5 +1,5 @@
 ---
-title: 4 - Privilege Escalation
+title: 6 - Privilege Escalation
 author: RFS
 date: 2023-06-04
 category: Windows

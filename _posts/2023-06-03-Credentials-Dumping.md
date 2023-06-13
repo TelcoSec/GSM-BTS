@@ -1,5 +1,5 @@
 ---
-title: 2 - Credentials Dumping
+title: 3 - Credentials Dumping
 author: RFS
 date: 2023-06-02
 category: Layer 2

@@ -4,6 +4,7 @@ author: RFS
 date: 2023-06-02
 category: Windows
 layout: post
+permalink: /bypass-defences
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 

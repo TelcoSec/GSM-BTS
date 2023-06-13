@@ -1,5 +1,5 @@
 ---
-title: 3 - Lateral Movement
+title: 4 - Lateral Movement
 author: RFS
 date: 2023-06-03
 category: Windows
