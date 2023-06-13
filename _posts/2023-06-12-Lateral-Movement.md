@@ -1,8 +1,8 @@
 ---
-title: Lateral Movement
+title: 3 - Lateral Movement
 author: RFS
 date: 2019-04-29
-category: Jekyll
+category: Windows
 layout: post
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
