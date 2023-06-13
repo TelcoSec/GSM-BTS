@@ -5,7 +5,7 @@ date: 2023-06-01
 category: Initial
 layout: post
 permalink: /initial-access
-cover: '{{site.cdn_images}}/ActiveDirectoryZerologonAttack.png'
+cover: '{{cdn}}/ActiveDirectoryZerologonAttack.png'
 ---
 
 ## Build your Infrastructure

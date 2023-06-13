@@ -10,6 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://learn.ad-attacks.com'
+cdn:              'https://cdn.ad-attacks.com'
 baseurl:          '/'
 rss:              RSS
 
@@ -63,7 +64,6 @@ regenerate:       true
 
 # Images CDN
 
-cdn_images: 'https://cdn.ad-attacks.com'
 
 
 plugins:
