@@ -1,7 +1,7 @@
 ---
 title: 1 - Initial Access
 author: RFS
-date: 2023-06-12
+date: 2023-06-01
 category: Layer-1
 layout: post
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif

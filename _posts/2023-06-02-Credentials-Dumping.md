@@ -1,7 +1,7 @@
 ---
 title: 2 - Credentials Dumping
 author: RFS
-date: 2023-06-13
+date: 2023-06-02
 category: Layer 2
 layout: post
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
