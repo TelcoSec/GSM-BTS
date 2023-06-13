@@ -17,6 +17,7 @@
 
             <div class="book-body">
                 <div class="book-header" role="navigation">
+                    {%- include head_ads.html -%}
                     <!-- Title -->
                     <h1>
                         <i class="fa fa-circle-o-notch fa-spin"></i>
@@ -26,9 +27,11 @@
                             <a href="." >{{ site.title | escape }}</a>
                         {% endif %}
                     </h1>
+
                 </div>
 
                 <div class="body-inner">
+                    
                     {%- include body.html -%}
 
                     {% if reversed_posts %}
