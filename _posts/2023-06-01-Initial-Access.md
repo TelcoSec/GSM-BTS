@@ -13,7 +13,7 @@ cover: /assets/img/BTS_Manufacturers.png
 
 
 
-## Build your Infrastructure
+## Nokia
 
 
 <figure>
@@ -24,24 +24,14 @@ cover: /assets/img/BTS_Manufacturers.png
    <figcaption>{{ include.caption }}</figcaption>
 </figure>
 
-### C&C
+## Huawei
 Choose your Doom!
 
 > :bulb: **Tip:** Remember to appreciate the little things in life.
 
-#### Cobalt Strike
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-#### Covenant
-
-#### Metasploit
 
 
-## Information Gathering
-
-### OSINT
+## ZTE
 
 <div class="table-wrapper" markdown="block">
 
@@ -54,14 +44,19 @@ Choose your Doom!
 
 </div>
 
-### LinkedIn
 
-## Mass Delivery
+## Ericson
 
-### Emails
 
-### SMS
+<div class="table-wrapper" markdown="block">
 
-### Advertisement
+|Tool|Description|Git|title4|title5|title6|title7|title8|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|2|3|4|5|6|7|8|
+|1|2|3|4|5|6|7|8|
+|1|2|3|4|5|6|7|8|
+|1|2|3|4|5|6|7|8|
+
+</div>
 
 
