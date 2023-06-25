@@ -5,7 +5,7 @@ date: 2023-06-02
 category: Windows
 layout: post
 permalink: /gsm-numbers-ids
-cover: /assets/dinosaur.gif
+cover: /assets/img/BTS_Numbers_IDs.png
 ---
 
 ## PLMN
@@ -23,3 +23,7 @@ cover: /assets/dinosaur.gif
 
 </div>
 
+### LAI - Location Area Identification
+
+
+### Base Stations Identification

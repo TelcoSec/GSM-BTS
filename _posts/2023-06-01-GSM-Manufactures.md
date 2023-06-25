@@ -45,7 +45,7 @@ Choose your Doom!
 </div>
 
 
-## Ericson
+## Ericsson
 
 
 <div class="table-wrapper" markdown="block">

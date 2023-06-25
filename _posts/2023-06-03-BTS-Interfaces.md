@@ -5,15 +5,18 @@ date: 2023-06-02
 category: Layer 2
 layout: post
 permalink: /bts-interfaces
-cover: /assets/dinosaur.gif
+cover: /assets/img/BTS_Interfaces.png
 ---
 
 
 
 ## Air Interface (UM)
-```powershell
-mimikatz# lsadump::dcsync /domain:htb.local /user:krbtgt
-```
+
+
+Air interface to connect al Mobile Station around
+
+
+
 ## Abis
 
 
