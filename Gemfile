@@ -10,5 +10,5 @@ gem 'jemoji'
 gem 'webrick'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap', '~> 1.4'
-
+gem 'jekyll-mermaid'
 # gem "rails"
