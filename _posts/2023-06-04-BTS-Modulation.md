@@ -1,10 +1,10 @@
 ---
-title: 4 - Lateral Movement
+title: 4 - BTS Modulation
 author: RFS
 date: 2023-06-03
 category: Windows
 layout: post
-permalink: /lateral-movement
+permalink: /bts-modulation
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 

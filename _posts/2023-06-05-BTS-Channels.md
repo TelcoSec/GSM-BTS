@@ -1,5 +1,5 @@
 ---
-title: 5 - Persistence
+title: 5 - BTS Channels
 author: RFS
 date: 2023-06-05
 category: Windows
@@ -9,14 +9,7 @@ cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 
 
-## Persistence
-
-Copyright 2023
-
-
-
-
-## Windows Clients
+## Common Channels
 
 <div class="table-wrapper" markdown="block">
 
@@ -29,7 +22,11 @@ Copyright 2023
 
 </div>
 
-## Windows Server
+[![Alt text](/assets/img/BTS_Numbers_IDs.png)](https://digitalocean.com)
+
+
+
+## Decicated Channels
 
 <div class="table-wrapper" markdown="block">
 
@@ -42,3 +39,4 @@ Copyright 2023
 
 </div>
 
+Geographical parameters from BTS

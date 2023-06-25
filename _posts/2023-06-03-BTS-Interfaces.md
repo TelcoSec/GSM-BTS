@@ -15,10 +15,23 @@ cover: /assets/img/BTS_Interfaces.png
 
 Air interface to connect al Mobile Station around
 
+### Downlink
 
+
+### Uplink
+
+
+- FDMA / TDMA
 
 ## Abis
+Connecting between BSC and BTS.
 
+Microwave links
+
+- User info
+- Sync Info
+- Signaling Info
+- O&M Alarms
 
 > ##### TIP
 >
