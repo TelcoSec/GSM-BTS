@@ -1,11 +1,11 @@
 ---
-title: 1 - Initial Access
+title: 1 - GSM BTS Manufacturers
 author: RFS
 date: 2023-06-01
 category: Initial
 layout: post
-permalink: /initial-access
-cover: https://cdn.ad-attacks.com/ActiveDirectoryZerologonAttack.png
+permalink: /bts-manufacturers
+cover: /assets/img/BTS_Manufacturers.png
 ---
 
 
