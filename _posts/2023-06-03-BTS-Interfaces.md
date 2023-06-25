@@ -2,7 +2,7 @@
 title: 3 - BTS Interfaces
 author: RFS
 date: 2023-06-02
-category: Layer 2
+category: BTS
 layout: post
 permalink: /bts-interfaces
 cover: /assets/img/BTS_Interfaces.png

@@ -2,7 +2,7 @@
 title: 2 - GSM Numbers and IDs
 author: RFS
 date: 2023-06-02
-category: Windows
+category: BTS
 layout: post
 permalink: /gsm-numbers-ids
 cover: /assets/img/BTS_Numbers_IDs.png

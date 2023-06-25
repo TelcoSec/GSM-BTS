@@ -1,11 +1,11 @@
 ---
-title: 6 - Privilege Escalation
+title: 6 - BTS Attacks
 author: RFS
-date: 2023-06-04
+date: 2023-06-06
 category: Windows
 layout: post
-permalink: /privilege-escalation
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
+permalink: /bts-attacks
+cover: /assets/img/BTS_Interfaces.png
 ---
 
 

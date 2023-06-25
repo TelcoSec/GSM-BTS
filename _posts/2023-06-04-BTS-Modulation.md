@@ -2,10 +2,10 @@
 title: 4 - BTS Modulation
 author: RFS
 date: 2023-06-03
-category: Windows
+category: BTS
 layout: post
 permalink: /bts-modulation
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
+cover: /assets/img/BTS_Interfaces.png
 ---
 
 This work is open sourced under the Apache License, Version 2.0, using the

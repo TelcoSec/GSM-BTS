@@ -2,13 +2,13 @@
 title: 5 - BTS Channels
 author: RFS
 date: 2023-06-05
-category: Windows
+category: BTS
 layout: post
-permalink: /persistence
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
+permalink: /bts-channels
+cover: /assets/img/BTS_Interfaces.png
 ---
 
-[![Alt text](/assets/img/GSM-Channels.png)](https://digitalocean.com)
+[![GSM Channels](/assets/img/GSM-Channels.JPG)](https://gsm-bts.telco-sec.com/)
 
 [TS GSM 05.02](https://www.etsi.org/deliver/etsi_gts/05/0502/05.00.00_60/gsmts_0502v050000p.pdf)
 
