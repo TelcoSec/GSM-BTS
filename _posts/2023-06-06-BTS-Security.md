@@ -1,10 +1,10 @@
 ---
-title: 6 - BTS Attacks
+title: 6 - BTS Security
 author: RFS
 date: 2023-06-06
 category: BTS
 layout: post
-permalink: /bts-attacks
+permalink: /bts-security
 cover: /assets/img/BTS_Interfaces.png
 ---
 
