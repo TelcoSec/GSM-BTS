@@ -17,7 +17,7 @@ cover: /assets/img/BTS_Interfaces.png
 <div class="table-wrapper" markdown="block">
 
 |Channel|Description|Specification|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 |TCH/F|Full rate traffic channel (TCH/F). This channel carries information at a gross rate of 22,8 kbit/s.|3|
 |TCH/H|Half rate traffic channel (TCH/H). This channel carries information at a gross rate of 11,4 kbit/s.|3|
 
@@ -29,14 +29,37 @@ cover: /assets/img/BTS_Interfaces.png
 
 ## Signalling Channels
 
+|Channel|Description|Specification|
+|:-:|:-:|:-:|
+|1|2|3|
+|1|2|3|
+|1|2|3|
+
+### Broadcast Channels
+
+|Channel|Description|Specification|
+|:-:|:-:|:-:|
+|1|2|3|
+|1|2|3|
+|1|2|3|
+
+### Common COntrol Channels
+
+|Channel|Description|Specification|
+|:-:|:-:|:-:|
+|1|2|3|
+|1|2|3|
+|1|2|3|
+
+### Dedicated Control Channels
+
 <div class="table-wrapper" markdown="block">
 
-|Tool|Description|Git|title4|title5|title6|title7|title8|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
+|Channel|Description|Specification|
+|:-:|:-:|:-:|
+|1|2|3|
+|1|2|3|
+|1|2|3|
 
 </div>
 
