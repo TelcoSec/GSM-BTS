@@ -2,7 +2,7 @@
 title: 6 - BTS Attacks
 author: RFS
 date: 2023-06-06
-category: Windows
+category: BTS
 layout: post
 permalink: /bts-attacks
 cover: /assets/img/BTS_Interfaces.png
