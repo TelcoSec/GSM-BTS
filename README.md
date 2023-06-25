@@ -3,7 +3,7 @@ layout: home
 title: GSM BTS 
 permalink: /
 description: GSM BTS Security information for Pentesters and Security Researchers.
-cover: https://learn.ad-attacks.com/assets/img/Active-Directory-Attacks.png
+cover: /assets/dinosaur.gif
 ---
 
 GSM BTS Security information for Pentesters and Security Researchers.
